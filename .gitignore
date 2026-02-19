@@ -131,6 +131,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.claude
+CLAUDE.md
+.streamlit.pid
 
 # Spyder project settings
 .spyderproject
