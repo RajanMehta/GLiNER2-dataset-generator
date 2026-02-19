@@ -46,4 +46,5 @@ Each line in the exported `.jsonl` file follows the GLiNER2 training format:
 }}
 ```
 
-See `train_data.md` for the full schema reference.
+- See [train_data.md](https://github.com/fastino-ai/GLiNER2/blob/main/tutorial/8-train_data.md) for the full schema reference.
+- See [training.md](https://github.com/fastino-ai/GLiNER2/blob/main/tutorial/9-training.md) to learn more about fine-tuning GLiNER2.
